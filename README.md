@@ -104,7 +104,7 @@ TTS_PROVIDER = "openai"   # Options: "openai" | "sarvam"
 Adding a new tool
 
 Create or open a file in friday/tools/
-Define a register(mcp) function and decorate your tools with @mcp.tool()
+Define a register(mcp) function and decorate your tools with @mcp.tool ()
 Import and call register(mcp) inside friday/tools/__init__.py
 The MCP server will pick up your new tool on the next start.
 
