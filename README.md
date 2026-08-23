@@ -15,7 +15,7 @@ How it works
 Microphone ──► STT (Sarvam Saaras v3)
                     │
                     ▼
-             LLM (Gemini 2.5 Flash)  ◄──────► MCP Server (FastMCP / SSE)
+             LLM (Gemini 2.5 Flash)  ◄──────► MCP Server (FastMCP/SSE)
                     │                              ├─ get_world_news
                     ▼                              ├─ open_world_monitor
              TTS (OpenAI nova)                     ├─ search_web
