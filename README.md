@@ -96,7 +96,7 @@ SUPABASE_URL	Optional	supabase.com — for the ticketing tool
 SUPABASE_API_KEY	Optional	Supabase project → API settings
 Switching providers
 
-Open agent_friday.py and change the provider constants at the top:
+Open agent_friday.py and change the provider constants at the top :
 
 STT_PROVIDER = "sarvam"   # Options: "sarvam" | "whisper"
 LLM_PROVIDER = "gemini"   # Options: "gemini" | "openai"
