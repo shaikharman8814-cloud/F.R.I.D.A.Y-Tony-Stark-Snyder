@@ -6,7 +6,7 @@ F.R.I.D.A.Y. — Tony Stark Demo
 A Tony Stark-inspired AI assistant split into two cooperating pieces:
 
 Component	What it is
-MCP Server (uv run friday)	A FastMCP server that exposes tools (news, web search, system info, …) over SSE. Think of it as the Stark Industries backend — it does the actual work.
+MCP Server (uv run friday)	A FastMCP server that exposes tools(news, web search, system info, …) over SSE. Think of it as the Stark Industries backend — it does the actual work.
 Voice Agent (uv run friday_voice)	A LiveKit Agents voice pipeline that listens to your microphone, reasons with an LLM (Gemini 2.5 Flash by default), and speaks back with OpenAI TTS — all while pulling tools from the MCP server in real time.
 Demo: Instagram reel
 
