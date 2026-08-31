@@ -31,7 +31,7 @@ friday-tony-stark-demo/
 ├── server.py           # uv run friday  → starts the MCP server (SSE on :8000)
 ├── agent_friday.py     # uv run friday_voice → starts the LiveKit voice agent
 ├── pyproject.toml
-├── .env.example        # copy → .env and fill in your keys
+├── .env.example        #copy → .env and fill in your keys
 │
 └── friday/             # MCP server package
     ├── config.py       # env-var loading & app-wide settings
