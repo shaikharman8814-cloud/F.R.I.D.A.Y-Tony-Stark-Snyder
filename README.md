@@ -36,7 +36,7 @@ friday-tony-stark-demo/
 └── friday/             # MCP server package
     ├── config.py       # env-var loading & app-wide settings
     ├── tools/          # MCP tools (callable by the LLM)
-    │   ├── web.py      # search_web, fetch_url, get_world_news, open_world_monitor
+    │   ├── web.py      # search_web, fetch_url, get_world_news, open_world_ monitor
     │   ├── system.py   # get_current_time, get_system_info
     │   └── utils.py    # format_json, word_count
     ├── prompts/        # MCP prompt templates (summarize, explain_code, …)
