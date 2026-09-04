@@ -72,7 +72,7 @@ Terminal 2 — Voice agent
 uv run friday_voice
 Starts the LiveKit voice agent in dev mode — it joins a LiveKit room and begins listening. Open the LiveKit Agents Playground and connect to your room to talk to FRIDAY.
 
-uv run friday vs uv run friday_voice
+uv run friday vs uv run friday_ voice
 
 Command	Entry point	What it does
 uv run friday	server.py → main()	Launches the FastMCP server over SSE transport on port 8000. This is the "brain backend" — it registers all tools, prompts, and resources that the LLM can call.
