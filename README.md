@@ -112,7 +112,7 @@ Tech stack
 
 FastMCP — MCP server framework
 LiveKit Agents — real-time voice pipeline
-Sarvam Saaras v3 — STT (Indian-English optimised)
+Sarvam Saaras v3 — STT (Indian-English optimised )
 Google Gemini 2.5 Flash — LLM
 OpenAI TTS (nova voice) — TTS
 uv — fast Python package manager
