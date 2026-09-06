@@ -98,7 +98,7 @@ Switching providers
 
 Open agent_friday.py and change the provider constants at the top :
 
-STT_PROVIDER = "sarvam"   # Options: "sarvam" | "whisper"
+STT_PROVIDER = "sarvam"   # Options: "sarvam" | "whisper "
 LLM_PROVIDER = "gemini"   # Options: "gemini" | "openai"
 TTS_PROVIDER = "openai"   # Options: "openai" | "sarvam"
 Adding a new tool
