@@ -58,7 +58,7 @@ uv sync
 3. Set up environment
 
 cp .env.example .env
-(Open the newly created .env file and fill in your API keys using the reference below)
+(Open the newly created .env file and fill in your API keys using the  reference below)
 
 4. Run — two terminals
 
