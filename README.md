@@ -85,7 +85,7 @@ Copy .env.example to .env and fill in the values below.
 Variable	Required	Where to get it
 LIVEKIT_URL	✅	LiveKit Cloud dashboard → your project URL
 LIVEKIT_API_KEY	✅	LiveKit Cloud → API Keys
-LIVEKIT_API_SECRET	✅	LiveKit Cloud → API Keys
+LIVEKIT_API_SECRET	✅	LiveKit Cloud →  API Keys
 GROQ_API_KEY	Optional	console.groq.com — only needed if you switch LLM_PROVIDER to "groq"
 SARVAM_API_KEY	✅ (Default STT)	dashboard.sarvam.ai
 OPENAI_API_KEY	✅ (Default TTS)	platform.openai.com/api-keys
